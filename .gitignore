@@ -2,3 +2,4 @@
 _local*
 .ipynb_checkpoints
 cache
+_test*
